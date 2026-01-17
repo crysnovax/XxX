@@ -15,7 +15,7 @@
     "dotenv": "^16.0.0",
     "pino": "^9.7.0",
     "canvas": "latest",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.12",
     "form-data":"latest",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "ffmpeg": "^0.0.4",
