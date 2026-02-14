@@ -1,7 +1,7 @@
 <!-- ₹REE WA BOT | Modern Profile README  -->
 
 <p align="center">
-  <img src="https://files.catbox.moe/f9gwsx.jpg" alt="FREE SC WA BOT Banner" width="100%">
+  <img src="https://i.ibb.co/bjcyx74M/temp-media-1771053680102.jpg" alt="CRYSNOVA X BOT" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm crysnovax</h1>
@@ -23,7 +23,7 @@
 ## 🌐 Deploy
 
 ### Heroku
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XdKing2/free-sc-mini)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/crysnovax/CRYSNOVA-AI)
 
 ### Other Platforms
 - Railway
@@ -42,9 +42,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-**Malvin King (XdKing2)**
+**crysnovax (CRYSNOVA-AI)**
 
-- GitHub: [@XdKing2](https://github.com/crysnovax)
+- GitHub: [@crysnovax](https://github.com/crysnovax)
 - WhatsApp Channel: [Join Channel](https://whatsapp.com/channel/0029Vb6pe77K0IBn48HLKb38)
 
 ## 💬 Support
