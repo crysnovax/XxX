@@ -1,5 +1,5 @@
 {
-  "name": "CRYSNOVA X",
+  "name": "free-sc-mini",
   "version": "1.0.2",
   "description": "A WhatsApp Bot with Multi-Number Support",
   "main": "index.js",
@@ -42,8 +42,8 @@
     "bot",
     "multi-device",
     "baileys",
-    "crysnovax"
+    "malvin-xd"
   ],
-  "author": "crysnovax",
+  "author": "Mr XDKING",
   "license": "MIT"
 }
