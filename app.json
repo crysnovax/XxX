@@ -1,11 +1,11 @@
 {
-    "name": "free-sc-mini",
-    "description": "mini web bot",
-    "logo": "https://files.catbox.moe/sb24ud.jpg",
-    "repository": "https://github.com/XdKing2/free-sc-mini",
+    "name": "CRYSNOVA X",
+    "description": "CRYSNOVA AI bot",
+    "logo": "https://i.ibb.co/bjcyx74M/temp-media-1771053680102.jpg",
+    "repository": "https://github.com/crysnovax/CRYSNOVA-AI",
     
     "keywords": [
-    "malvin-xd","XdKing2"
+    "crysnovax","CRYSNOVA AI"
     ],
     
     "success_url": "/", 
